@@ -1,3 +1,3 @@
-module github.com/go-gost/tls-dissector
+module github.com/dolfly/tls-dissector
 
 go 1.17
